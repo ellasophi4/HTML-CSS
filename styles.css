@@ -73,7 +73,7 @@ a {
     flex-wrap: wrap;
 }
 .cake-item {
-    border: 1px dashed yellow;
+    border: 1px;
     width: 275px;
     padding: 4px;
 }
